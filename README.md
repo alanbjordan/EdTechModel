@@ -1,4 +1,4 @@
-# Student Success Prediction: Data-Driven Behavioral Insights
+# Student Success Prediction Model: Data-Driven Behavioral Insights
 ### See the model in action: [Click here to visit the Demo Site](https://alanbjordan.github.io/StudentSuccessPredictor/)
 
 ## **Overview**
